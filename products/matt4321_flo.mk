@@ -14,8 +14,8 @@ PRODUCT_MANUFACTURER := asus
 # Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=hammerhead \
-    BUILD_FINGERPRINT=google/razor/razor:5.1.0/LMY47O/1570855:user/release-keys \
-    PRIVATE_BUILD_DESC="razor-user 5.1.0 LMY47O 1570855 release-keys"
+    BUILD_FINGERPRINT=google/razor/razor:5.1.1/LMY47V/1570855:user/release-keys \
+    PRIVATE_BUILD_DESC="razor-user 5.1.1 LMY47V 1570855 release-keys"
 
 # Inherit media effect blobs
 -include vendor/rascarlo/products/common_media_effects.mk
